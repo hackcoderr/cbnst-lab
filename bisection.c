@@ -31,8 +31,6 @@ do{
 
     }
     while(fabs(f3)<e);
-    printf("\nvalue of root: %f",mid);
-    printf("\nvalue of function: %f",f3);
     return 0;
 
 }
